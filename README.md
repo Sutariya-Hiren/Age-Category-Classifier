@@ -1,4 +1,4 @@
-# Age Category Classifier 🧮
+# Age Category Classifier
 
 This is a simple beginner-level Python project that classifies a person's age
 into different categories such as Child, Teenager, Adult, or Senior using
